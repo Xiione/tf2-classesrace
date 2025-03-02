@@ -22,6 +22,6 @@
    - Medic -> F7
    - Sniper -> F8
    - Spy -> F9
-3. First player to 9 classes killed wins! The ninth class's message will be marked by `!![9/9]!!`. If nobody reached 9, the player who got the maximum score first wins. If multiple people ended with the same score, scroll up in the party chat history to see who got there first.
+3. First player to 9 classes killed wins! The ninth class's message will be marked by `!![9/9]!!`. If nobody reached 9, the player who got the maximum score first wins, and if multiple people ended with the same score, scroll up in the party chat history to see who got there first.
 4. When the round ends, each player hits F11 to reset their counter. This will mark the chat history clearly with a message:  
    `[X/9] ---RESET---> [0/9]`
