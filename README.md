@@ -1,7 +1,7 @@
 # TF2 classes race pub minigame
 ## Download and installation
 1. Click the green "Code" button -> click "Download ZIP"
-2. Extract the contents of `tf2-classesrace.zip`
+2. Extract the contents of `tf2-classesrace-main.zip`
 3. Copy the `classesrace` folder to the `tf/cfg` folder of your TF2 installation
 4. Add the following line to your `tf/cfg/autoexec.cfg`:  
    ```
